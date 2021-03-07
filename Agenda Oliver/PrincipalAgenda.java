@@ -1,10 +1,7 @@
-
-
-public class PrincipalAgenda {
-   public static void main (String args []) {
-  
-       
-   b IngresoAgenda = new IngresoAgenda();
-     
+public class PrincipalAgenda
+{
+   public static void main(String args[])
+   {
+      JFrameL log = new JFrameL();
    }
 }
